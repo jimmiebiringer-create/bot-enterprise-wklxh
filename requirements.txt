@@ -1,11 +1,6 @@
-base64
-bs4
-cfonts
-datetime
-h2
-httpx
+beautifulsoup4
 requests
-subprocess
-threading
-uuid
-websocket
+httpx
+websocket-client
+h2
+cfonts
